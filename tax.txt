@@ -1,0 +1,5 @@
+Pesanan Sukses
+Customer: First Name: adityawarma Last Name: kanzaki Email: adit@gmail.com
+Kamar: Nomor Kamar: 1 Harga: Rp.1000.0 Enumeration: SINGLE
+CheckIn Date: Sat Feb 01 00:00:00 WIB 2020
+CheckOut Date: Sun Feb 02 00:00:00 WIB 2020
